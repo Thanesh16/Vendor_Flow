@@ -26,6 +26,10 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+# Scratch and temporary scripts
+scratch/
+backend/scratch/
+
 # Editor and OS files
 .DS_Store
 Thumbs.db
